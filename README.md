@@ -5,6 +5,14 @@
 Projede bir su satış firmasının müşteri bilgilerini kaydetme, müşteriler üzerinden sipariş alma ve güncel siparişlerin takibi hedeflenmiştir.
 Kullanıcı girişi, kontrol paneli, müşteri ekleme, müşteri düzenleme ve sipariş ekleme ekranları mevcuttur.
 
+## Kullanıcı Bilgileri
+
+| email/username | password |
+| ------------- |:-------------:|
+| slymnkrc@mail.com  | 123456 |
+| admin@mail.com  | 12345 |
+
+
 ## Kullanılan Diller ve Yetenekler
 
 | Dil / Yetenek | :arrow_right: | % |
