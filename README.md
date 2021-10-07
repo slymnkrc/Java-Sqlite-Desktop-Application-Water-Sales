@@ -12,8 +12,12 @@
 
 ## Project Details:
 
-Projede bir su satış firmasının müşteri bilgilerini kaydetme, müşteriler üzerinden sipariş alma ve güncel siparişlerin takibi hedeflenmiştir.
-Kullanıcı girişi, kontrol paneli, müşteri ekleme, müşteri düzenleme ve sipariş ekleme ekranları mevcuttur.
+Desktop water sales application is prepared using java jframe structure. The project has an admin login. It is mandatory to log into the system with a user name and password.
+Actions on the Home Page;
+- Customer -> Add / Delete / Edit / Search
+- Order -> Add / Delete / Edit / Filter
+
+User login, control panel, add customer, edit customer and add order screens are available.
 
 Below are the ready-made admin information registered to the system. You can login to the application with this username and password.
 
