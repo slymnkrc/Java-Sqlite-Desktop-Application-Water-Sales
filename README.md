@@ -39,17 +39,7 @@ Uygulama Açıklaması
   <a href="https://github.com/slymnkrc/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/10.png" target="_blank">
 <img src="https://github.com/slymnkrc/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/10.png" width="200" style="max-width:100%;"></a>
   
-    <a href="https://github.com/slymnkrc/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/11.png" target="_blank">
-<img src="https://github.com/slymnkrc/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/11.png" width="200" style="max-width:100%;"></a>
-  
-    <a href="https://github.com/slymnkrc/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/12.png" target="_blank">
-<img src="https://github.com/slymnkrc/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/12.png" width="200" style="max-width:100%;"></a>
-  
-    <a href="https://github.com/slymnkrc/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/13.png" target="_blank">
-<img src="https://github.com/slymnkrc/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/13.png" width="200" style="max-width:100%;"></a>
-  
-    <a href="https://github.com/slymnkrc/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/14.png" target="_blank">
-<img src="https://github.com/slymnkrc/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/14.png" width="200" style="max-width:100%;"></a>
+
   
   
   
