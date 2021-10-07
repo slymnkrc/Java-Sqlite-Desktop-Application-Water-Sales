@@ -17,9 +17,9 @@ Kullanıcı girişi, kontrol paneli, müşteri ekleme, müşteri düzenleme ve s
 
 | Dil / Yetenek | :arrow_right: | % |
 | ------------- |:-------------:|:-------------:|
-| Java | :arrow_right: | 90 |
-| JFrame | :arrow_right: | 80 |
-| SQLite | :arrow_right: | 70 |
+| Java | :arrow_right: | 60 |
+| JFrame | :arrow_right: | 40 |
+| SQLite | :arrow_right: | 20 |
 
 
 ## Uygulama Görselleri
