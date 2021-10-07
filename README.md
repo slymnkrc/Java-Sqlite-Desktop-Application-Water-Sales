@@ -2,6 +2,10 @@
 
 Uygulama Açıklaması
 
+Projede bir su satış firmasının müşteri bilgilerini kaydetme, müşteriler üzerinden sipariş alma ve güncel siparişlerin takibi hedeflenmiştir.
+Kullanıcı girişi, kontrol paneli, müşteri ekleme, müşteri düzenleme ve sipariş ekleme ekranları mevcuttur.
+
+
 ## Uygulama Görselleri
 
 <p>
