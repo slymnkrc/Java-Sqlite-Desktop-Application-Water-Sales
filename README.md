@@ -1,11 +1,23 @@
-# Java Sql Desktop Application Water Sales
+# Java Desktop Water Sales Automation
 
-## Uygulama Açıklaması
+<p>
+  
+  <a href="https://github.com/slymnkrc/Java-Sqlite-Desktop-Application-Water-Sales">
+    <img src="https://img.shields.io/badge/NetBeans IDE-v8.2-3eb049" alt="NetBeans" data-canonical-src="https://img.shields.io/badge/NetBeans IDE-v8.2-3eb049" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/slymnkrc/Java-Sqlite-Desktop-Application-Water-Sales">
+    <img src="https://img.shields.io/badge/SQLite-v3.12.2-d10000" alt="IntelliJ" data-canonical-src="https://img.shields.io/badge/SQLite-v3.12.2-d10000"        style="max-width: 100%;">
+  </a>
+</p>
+
+## Project Details:
 
 Projede bir su satış firmasının müşteri bilgilerini kaydetme, müşteriler üzerinden sipariş alma ve güncel siparişlerin takibi hedeflenmiştir.
 Kullanıcı girişi, kontrol paneli, müşteri ekleme, müşteri düzenleme ve sipariş ekleme ekranları mevcuttur.
 
-## Kullanıcı Bilgileri
+Below are the ready-made admin information registered to the system. You can login to the application with this username and password.
+
+## User Information:
 
 | email/username | password |
 | ------------- |:-------------:|
@@ -13,16 +25,16 @@ Kullanıcı girişi, kontrol paneli, müşteri ekleme, müşteri düzenleme ve s
 | admin@mail.com  | 12345 |
 
 
-## Kullanılan Diller ve Yetenekler
+## Tools and Technologies:
 
-| Dil / Yetenek | :arrow_right: | % |
-| ------------- |:-------------:|:-------------:|
-| Java | :arrow_right: | 60 |
-| JFrame | :arrow_right: | 40 |
-| SQLite | :arrow_right: | 20 |
+| Tools | 
+| ------------- |
+| Java | 
+| JFrame | 
+| SQLite | 
 
 
-## Uygulama Görselleri
+## ScreenShots:
 
 <p>
   
